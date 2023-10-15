@@ -8,7 +8,7 @@ https://fireship-demos.web.app/
 
 ● A page displaying the conversation, as well as an input field and submit button.
 ● Data gets stored online and offline.
-● ability to send messages when offline (which gets delivered when connection resumes
+● ability to send messages when offline (messages get delivered when connection resumes)
 
 > Firebase
  
