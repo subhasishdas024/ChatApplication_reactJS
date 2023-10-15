@@ -14,4 +14,4 @@ https://fireship-demos.web.app/
  
 Within the project, if you need to install via Firebase, it can be done using npm. Open up your terminal, navigate to your project folder, and type in the following:
 
-npm install firebase@version --save
+npm install firebase@version --save //version
