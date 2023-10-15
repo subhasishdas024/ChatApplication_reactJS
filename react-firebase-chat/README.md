@@ -1,7 +1,5 @@
-# React Firebase Super Chat
+# A simple chat web application using ReactJS and Firebase. ( Android and iOS devices ) 
 
-A simple fullstack chat demo with React and Firebase. 
+App Link Sign in : 
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+https://fireship-demos.web.app/
