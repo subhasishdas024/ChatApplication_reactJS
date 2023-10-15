@@ -1,6 +1,6 @@
 # Progressive Chat Web Application (PWA) 
 
-A simple chat web application using ReactJS and Firebase. ( Android and iOS devices ) 
+A simple chat application using ReactJS and Firebase. ( Android and iOS devices ) 
 
 App Link Sign in : 
 
